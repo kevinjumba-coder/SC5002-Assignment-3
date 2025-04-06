@@ -17,5 +17,5 @@ This lab uses the data obtained here: https://www.kaggle.com/datasets/mehmettahi
 12. Model Limitations: For k-means - No labels required, risk of poorly separated clusters, output not directly interpretable, may fail if clusters overlap
 13. Sensitivity of k-means to initial centroids happens when: The data has overlapping or unevenly distributed clusters. Clusters are of different densities or sizes. Initial centroids are poorly spaced.
 14. What happens when Centroids are poorly initialised:The algorithm may converge to a local minimum, not the global optimum. The resulting clusters can be misleading or unstable. The inertia value may be higher, indicating worse compactness. The consistency of results across runs may vary significantly.
-Practical Applications for MLP: Predicting Product Categories. Why? It uses labels to learn mappings
-Practical Applications for k-means: Customer segmentation of targeting. Why? It finds groups without needing labels
+15. Practical Applications for MLP: Predicting Product Categories. Why? It uses labels to learn mappings
+16. Practical Applications for k-means: Customer segmentation of targeting. Why? It finds groups without needing labels
