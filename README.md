@@ -1,8 +1,8 @@
 # SC5002-Assignment-3
----
+
 This lab uses the data obtained here: https://www.kaggle.com/datasets/mehmettahiraslan/customer-shopping-dataset/data
 ## Steps
----
+
 1. Setting up environment on Jupyter Notebook
 2. Dataset was loaded from the .csv file posted on this repository
 3. Checking data for any missing data. None found, continue
